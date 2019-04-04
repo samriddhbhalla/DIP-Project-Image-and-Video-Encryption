@@ -1,4 +1,4 @@
-# DIP-Project
+# Image and Video Encryption using XOR logic
 Made as a course project
 
 ## Sample images 
