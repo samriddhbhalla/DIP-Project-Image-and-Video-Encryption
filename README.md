@@ -2,7 +2,7 @@
 Made as a course project
 
 Sample images - image_0.jpg, image_1.jpg, image_3.png, image_4.png can be used for testing
-
+ 
 For Image Encryption
   Run - GenSecretKey.py
     Modify the image you want to encrypt inside the program - line 10
