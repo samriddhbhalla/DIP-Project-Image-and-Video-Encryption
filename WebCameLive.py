@@ -33,7 +33,7 @@ while(True):
 
 
     b, g, r = cv2.split(im2)
-    secretKey3col = cv2.imread('secret_key.png')
+    secretKey3col = cv2.imread('secret_key_video.png')
     secretKey = cv2.cvtColor(secretKey3col, cv2.COLOR_BGR2GRAY)
 
     def scrambling(channel):
