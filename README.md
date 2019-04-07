@@ -1,5 +1,8 @@
 # Image and Video Encryption using XOR logic
-Made as a course project
+Made as a project for the cource ECN 316 Digital Image Processing
+
+## Language requirement
+python 3.0
 
 ## Sample images 
 image_0.jpg, image_1.jpg, image_3.png, image_4.png can be used for testing
